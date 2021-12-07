@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://app.icecreamswap.finance/static/js/main.61b46152.chunk.js",
-    "main.js.map": "https://app.icecreamswap.finance/static/js/main.61b46152.chunk.js.map",
+    "main.js": "https://app.icecreamswap.finance/static/js/main.bd1547cd.chunk.js",
+    "main.js.map": "https://app.icecreamswap.finance/static/js/main.bd1547cd.chunk.js.map",
     "runtime-main.js": "https://app.icecreamswap.finance/static/js/runtime-main.8aea14da.js",
     "runtime-main.js.map": "https://app.icecreamswap.finance/static/js/runtime-main.8aea14da.js.map",
     "static/js/2.0487451c.chunk.js": "https://app.icecreamswap.finance/static/js/2.0487451c.chunk.js",
@@ -32,6 +32,6 @@
   "entrypoints": [
     "static/js/runtime-main.8aea14da.js",
     "static/js/2.0487451c.chunk.js",
-    "static/js/main.61b46152.chunk.js"
+    "static/js/main.bd1547cd.chunk.js"
   ]
 }
